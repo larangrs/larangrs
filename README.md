@@ -52,5 +52,5 @@
 
 - [ProductArtDsg](https://github.com/larangmota/project-nodejs)
 
-- [GaleriaJardinds](https://github.com/larangrs/site-galeria-jardins)
+- [GaleriaJardins](https://github.com/larangrs/site-galeria-jardins)
 
